@@ -146,7 +146,7 @@ public class StopWatchC extends JApplet
         strShowText = strTime;
         jtfTime.setText(strShowText);
 
-        //javax.swing.JOptionPane.showMessageDialog(this,"��ʼ" ,"��ʾ",javax.swing.JOptionPane.INFORMATION_MESSAGE );
+        //javax.swing.JOptionPane.showMessageDialog(this,"提示" ,"修改时间",javax.swing.JOptionPane.INFORMATION_MESSAGE );
     }
 
     private void jbtnStart_MouseClick(java.awt.event.MouseEvent e)
