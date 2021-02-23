@@ -54,6 +54,8 @@ public class StopWatchC extends JApplet
     public StopWatchC()
     {
 
+    	
+    	
     }
 
     //Initialize the applet
@@ -77,13 +79,13 @@ public class StopWatchC extends JApplet
         this.setForeground(Color.black);
         this.setSize(new Dimension(500, 161));
         this.getContentPane().setLayout(null);
-        //jLabel1.setFont(new java.awt.Font("Serif", 1, 20));
+        jLabel1.setFont(new java.awt.Font("Serif", 1, 20));
         jLabel1.setForeground(Color.black);
         jLabel1.setText("经历时间：");
         jLabel1.setBounds(new Rectangle(12, 32, 150, 35));
 
         jtfTime.setEnabled(false);
-        //jtfTime.setFont(new java.awt.Font("SansSerif", 1, 20));
+        jtfTime.setFont(new java.awt.Font("SansSerif", 1, 20));
         jtfTime.setForeground(Color.red);
         jtfTime.setAlignmentX((float)0.5);
         jtfTime.setDisabledTextColor(Color.red);
@@ -95,21 +97,21 @@ public class StopWatchC extends JApplet
         jtfTime.setText("00:00:00:000");
 
         jbtnStart.setBounds(new Rectangle(27, 87, 80, 34));
-        //jbtnStart.setFont(new java.awt.Font("SansSerif", 0, 15));
+        jbtnStart.setFont(new java.awt.Font("SansSerif", 0, 15));
         jbtnStart.setText("开始");
 
         jbtnEnd.setText("停止");
-        //jbtnEnd.setFont(new java.awt.Font("SansSerif", 0, 15));
+        jbtnEnd.setFont(new java.awt.Font("SansSerif", 0, 15));
         jbtnEnd.setToolTipText("");
         jbtnEnd.setSelected(false);
         jbtnEnd.setBounds(new Rectangle(298, 88, 87, 33));
 
         jbtnSuspend.setBounds(new Rectangle(119, 87, 86, 34));
-        //jbtnSuspend.setFont(new java.awt.Font("SansSerif", 0, 15));
+        jbtnSuspend.setFont(new java.awt.Font("SansSerif", 0, 15));
         jbtnSuspend.setText("暂停");
 
         jbtnResume.setText("继续");
-        //jbtnResume.setFont(new java.awt.Font("SansSerif", 0, 15));
+        jbtnResume.setFont(new java.awt.Font("SansSerif", 0, 15));
         jbtnResume.setBounds(new Rectangle(208, 88, 86, 34));
 
         this.getContentPane().add(jtfTime, null);
@@ -157,13 +159,6 @@ public class StopWatchC extends JApplet
     private void jbtnStart_MouseClickFun()
     {
         //javax.swing.JOptionPane.showMessageDialog(this,"��ʼ" ,"��ʾ",javax.swing.JOptionPane.INFORMATION_MESSAGE );
-
-        int j = 0;
-        int i = 3;
-
-        j = 1+(i++);
-
-
 
 
         //JOptionPane.showMessageDialog(null, String.valueOf(j), "��Ϣ��ʾ", JOptionPane.INFORMATION_MESSAGE);
