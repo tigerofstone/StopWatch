@@ -158,10 +158,10 @@ public class StopWatchC extends JApplet
 
     private void jbtnStart_MouseClickFun()
     {
-        //javax.swing.JOptionPane.showMessageDialog(this,"��ʼ" ,"��ʾ",javax.swing.JOptionPane.INFORMATION_MESSAGE );
+        //javax.swing.JOptionPane.showMessageDialog(this,"提示" ,"开始了",javax.swing.JOptionPane.INFORMATION_MESSAGE );
 
 
-        //JOptionPane.showMessageDialog(null, String.valueOf(j), "��Ϣ��ʾ", JOptionPane.INFORMATION_MESSAGE);
+        //JOptionPane.showMessageDialog(null, String.valueOf(j), "开始了！", JOptionPane.INFORMATION_MESSAGE);
 
 
         objThread = new StopWatchThreadC();
