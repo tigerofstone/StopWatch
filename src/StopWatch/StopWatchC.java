@@ -163,6 +163,9 @@ public class StopWatchC extends JApplet
 
         j = 1+(i++);
 
+
+
+
         //JOptionPane.showMessageDialog(null, String.valueOf(j), "��Ϣ��ʾ", JOptionPane.INFORMATION_MESSAGE);
 
 
