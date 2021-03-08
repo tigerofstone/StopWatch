@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="f76c8c0b-ad5d-4715-b7ed-9f59f18927cf" name="Default Changelist" comment="test--002">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StopWatch/StopWatchC.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StopWatch/StopWatchC.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/StopWatch/.gitignore" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,17 +47,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.StopWatchC" />
@@ -88,7 +77,8 @@
       <workItem from="1614242373925" duration="298000" />
       <workItem from="1614242925036" duration="4000" />
       <workItem from="1614305485776" duration="573000" />
-      <workItem from="1614577216975" duration="917000" />
+      <workItem from="1614577216975" duration="1401000" />
+      <workItem from="1614588102406" duration="776000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1614063276831</created>
@@ -118,7 +108,14 @@
       <option name="project" value="LOCAL" />
       <updated>1614064808195</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="test--002">
+      <created>1614578304595</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1614578304595</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

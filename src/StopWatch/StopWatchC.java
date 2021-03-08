@@ -6,8 +6,8 @@ import javax.swing.*;
 
 public class StopWatchC extends JApplet
 {
-    /**
-     *
+    /*
+     
      */
     private static final long serialVersionUID = 1L;
     private boolean isStandalone = false;
