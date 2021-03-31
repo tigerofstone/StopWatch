@@ -12,6 +12,7 @@ package StopWatch;
         ChangeMilliSocendToTimeC()
         {
 
+
         }
 
         ChangeMilliSocendToTimeC(long lngMilliSecond)
