@@ -29,6 +29,7 @@ public class StopWatchC extends JApplet
         applet.isStandalone = true;
 
         JFrame frame = new JFrame();
+
         //EXIT_ON_CLOSE == 3
         frame.setDefaultCloseOperation(3);
         frame.setTitle("秒表");
@@ -36,6 +37,7 @@ public class StopWatchC extends JApplet
 
         applet.init();
         applet.start();
+
 
         frame.setSize(500, 190);
         Dimension d = Toolkit.getDefaultToolkit().getScreenSize();

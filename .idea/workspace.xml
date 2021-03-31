@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="f76c8c0b-ad5d-4715-b7ed-9f59f18927cf" name="Default Changelist" comment="test--002">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/StopWatch/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/StopWatch/StopWatchC.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StopWatch/StopWatchC.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -32,7 +33,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RunManager">
     <configuration name="StopWatchC" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -48,22 +49,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="应用程序.StopWatchC" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -92,6 +90,13 @@
       <workItem from="1614577216975" duration="1401000" />
       <workItem from="1614588102406" duration="776000" />
       <workItem from="1615189097535" duration="1571000" />
+      <workItem from="1615192052590" duration="625000" />
+      <workItem from="1615192718046" duration="1337000" />
+      <workItem from="1615258687120" duration="1479000" />
+      <workItem from="1615360499386" duration="378000" />
+      <workItem from="1617157080068" duration="43000" />
+      <workItem from="1617157256195" duration="823000" />
+      <workItem from="1617164527648" duration="405000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1614063276831</created>
@@ -163,7 +168,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/StopWatch/StopWatchC.java</url>
-          <line>291</line>
+          <line>293</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
