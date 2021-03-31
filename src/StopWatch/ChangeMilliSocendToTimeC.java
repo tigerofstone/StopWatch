@@ -74,7 +74,8 @@ package StopWatch;
                 strMilliseconds = String.valueOf(intMilliseconds);
             }
 
-            return strHours + ":" + strMinutes + ":" + strSeconds + ":" + strMilliseconds;
+            String s = strHours + ":" + strMinutes + ":" + strSeconds + ":" + strMilliseconds;
+            return s;
 
         }
     }
