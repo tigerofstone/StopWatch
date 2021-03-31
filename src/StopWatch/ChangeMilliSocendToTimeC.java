@@ -68,6 +68,7 @@ package StopWatch;
             {
                 strMilliseconds = "0" + String.valueOf(intMilliseconds);
             }
+
             else
             {
                 strMilliseconds = String.valueOf(intMilliseconds);
